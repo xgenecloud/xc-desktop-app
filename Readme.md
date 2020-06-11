@@ -1,3 +1,8 @@
+# Issue Reporting
+
+Please report your issues here https://github.com/xgenecloud/xgenecloud/issues
+
+
 # Semantic Release 
 
 
